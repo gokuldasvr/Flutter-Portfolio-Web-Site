@@ -1,0 +1,64 @@
+{
+    "basic":{
+      "name":"Gokuldas V R",
+      "address":"Vadukkumchery House Engandiyur PO Thrissur 680615",
+      "designation":"Mobile Games/Apps Developer",
+      "tools" : "Kotlin | Dart | C# | Node js",
+      "mailID":"vrgokuldas@gmail.com",
+      "contactNo":"+91-8281509065",
+      "image": "https://res.cloudinary.com/vrgokuldas/image/upload/v1599541539/portfolio_website/profile_image_oqmhvv.jpg",
+      "githubUrl": "https://github.com/gokuldasvr",
+      "resumeUrl":"https://res.cloudinary.com/vrgokuldas/image/upload/v1599557393/portfolio_website/Resume_overlef_Gokuldas__Copy__eeohdi.pdf"
+    },
+    "previousJobDetails":[
+      {
+        "designation":"Game Developer",
+        "companyName":"Trioops",
+        "companyLogo":"https://res.cloudinary.com/vrgokuldas/image/upload/v1597130592/portfolio_website/trioops_a3t45f.png",
+        "companyLocation":"Delhi NCR",
+        "period":"3 May 2018 - 10 Aug 2019",
+        "description":"Place where I started my career as Junior Game programmer. I Made both games and apps for Android and IOS platforms in 3D & 2D. Core game programming, creating Bots, animations are my Favourites"
+      },{
+        "designation":"Game Developer",
+        "companyName":"Hapiens Digital",
+        "companyLogo":"https://res.cloudinary.com/vrgokuldas/image/upload/v1597130593/portfolio_website/hapiens_knnatw.png",
+        "companyLocation":"Kakkanad, Ernakulam",
+         "period":"19 Aug 2019 - 30 April 2020",
+        "description":"A Baby startup, foucsed in Realtime Quiz games. The best thing learned are How to become an Entrepreneur, How to build a Startup from scratch, Social media marketing and campaigns etc.."
+      },
+      {
+        "designation":"Game Developer",
+        "companyName":"Banzan Ventures",
+        "companyLogo":"https://res.cloudinary.com/vrgokuldas/image/upload/v1597130592/portfolio_website/banzan_le7noe.jpg",
+        "companyLocation":"Kakkanad, Ernakulam",
+        "period":"",
+        "description":"Developed complete games using Flutter - Android with backend Node js"
+      }
+      ],
+      "appGallery":[
+        {
+          "title":"Numzy - How Fast Is Your Brain ?",
+          "type":"Mobile Games",
+          "avatarUrl":"https://res.cloudinary.com/vrgokuldas/image/upload/v1599558057/portfolio_website/numzy_chhagj.webp",
+          "url":"https://play.google.com/store/apps/details?id=games.banzan.numzy",
+          "ratings":4.8,
+          "description":"The best puzzle games are deceptively simple to play while offering a brain-busting challenge. This describes NUMZY, a crazy number game that apart from being fun, tests your agility, vision, speed, simple calculations and brain power."
+        },
+        {
+          "title":"TROLO: To-Do, Reminder, Tasks, Panchang, News",
+          "type":"Mobile Application",
+          "avatarUrl":"https://res.cloudinary.com/vrgokuldas/image/upload/v1599558057/portfolio_website/trolo_akqx9p.webp",
+          "url":"https://play.google.com/store/apps/details?id=com.troloapp",
+          "ratings":4.0,
+          "description":"TROLO is more than your mobile personal digital assistant and to-do planner. Make use of our advanced meeting alerts, GPS location reminders, to-dos & scheduling to improve effectiveness and practice effective time management. You can use TROLO to track your fitness goals, monitor expenses, and view news at a glance."
+        },
+        {
+            "title":"QUNO - Learn | Play | Win",
+            "type":"Mobile Games",
+            "avatarUrl":"https://res.cloudinary.com/vrgokuldas/image/upload/v1599558057/portfolio_website/quno_qpdogk.webp",
+            "url":"https://play.google.com/store/apps/details?id=games.hapiens.qyuno",
+            "ratings":4.9,
+            "description":"Quno is a Dual Mode Trivia Game at present."
+          }
+        ]
+  }
